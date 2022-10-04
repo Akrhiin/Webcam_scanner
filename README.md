@@ -2,8 +2,6 @@ WEBCAM SCANNER
 ==================================================
 CURRENT STATUS:
 Scanner is able to show constant feed from webcam in new window.
-Upon keypress [ESC], closes window.  Upon keypress [SPACE], prompts user for file name and saves frame as new png.
+Upon keypress [ESC], closes window.  Upon keypress [SPACE], prompts user for file name and saves frame as new png in main directory.
 
-PLANS:
-Implement the current webcam functionality into a self contained 3d-scanner program.
-
+I wrote this script to be used in tandem with Meshroom for photogrammetry purposes, but could likely be repurposed to suit a variety of needs.
